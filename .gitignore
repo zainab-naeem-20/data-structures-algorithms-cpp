@@ -1,0 +1,19 @@
+# Executables and Compiled Binary Files
+*.exe
+*.out
+*.o
+*.obj
+Arrays
+
+# Dev-C++ Temporary and Project Files
+*.win
+*.layout
+*.cpp.o
+
+# Folder created for compiled output (if any)
+bin/
+build/
+
+# OS specific files
+Thumbs.db
+.DS_Store
